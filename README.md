@@ -1,10 +1,10 @@
 # Page Views
 
-Check it out [here!]()
+Check it out [here!](https://ianbrdeguzman.github.io/pageviews/)
 
 #### Created using:
 
-- HTML5
-- CSS3
-- JavaScript
-- Count API
+-   HTML5
+-   CSS3
+-   JavaScript
+-   Count API
